@@ -1,11 +1,8 @@
-# Product Restrictions for InPost Pay Commerce
-
-> **Read-only mirror** — this repository is automatically split from the [monorepo](https://github.com/inpost/magento2-inpost-pay).
-> All issues and pull requests should be submitted there.
+# Product Restrictions for InPost Pay — Adobe Commerce
 
 Adobe Commerce Support Package for InPost_Restrictions module.
 
-## Requirements
+## Compatibility
 
 Compatibility and dependency requirements are defined in [`composer.json`](composer.json).
 
